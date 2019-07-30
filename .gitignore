@@ -1,0 +1,17 @@
+*.ttf
+*.TTF
+*.swf
+*.log
+*.gz
+//1c/*
+/data/*
+/log/*
+/storage/*
+/temp/*
+/pma/*
+/published/publicdata/U225415/attachments/SC/products_pictures/*
+*.log
+*.log1
+*.tmp
+/.idea/
+/kernel/includes/smarty/compiled
